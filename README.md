@@ -345,8 +345,7 @@ MNIST-Digit-Recognition/
 ├── README.md
 ├── requirements.txt
 │
-├── notebooks/
-│   └── MNIST_Digit_Recognition.ipynb
+├── MNIST_Digit_Recognition.ipynb
 │
 ├── results/
 │   ├── training_accuracy_loss.png
