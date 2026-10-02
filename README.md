@@ -350,8 +350,8 @@ MNIST-Digit-Recognition/
 ├── results/
 │   ├── training_accuracy_loss.png
 │   ├── confusion_matrix.png
-│   ├── predictions.png
-│   └── mnist_evaluation_results.csv
+│   ├── correct_predictions.png
+|   ├── Incorrect_predictions.png
 
 ```
 
